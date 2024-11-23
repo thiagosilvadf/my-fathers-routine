@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 106, 255, 0.758);
+}
+
+h1 {
+    font: normal 20pt Arial;
+    background-color: aqua;
+    text-align: center;
+}
+
+h2#positive {
+    background-color: blue;
+    color: whitesmoke;
+    text-align: center;
+}
+
+h2#negative {
+    background-color: aqua;
+    color: red;
+    text-align: center;
+
+}
+
+* img {
+    width: 150px;
+    height: 150px;
+}
+
+div#imgp {
+    text-align: center;
+}
+
+div#imgn {
+    text-align: center;
+}
+
+p#foot {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+a > p#foot {
+    color: black;
+    text-decoration
+}
+
